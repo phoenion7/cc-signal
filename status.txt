@@ -1,1 +1,1 @@
-22:19:04 relay1 done rc=0
+22:33:43 relay2 done rc=127
