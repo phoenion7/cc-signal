@@ -1,1 +1,1 @@
-22:36:39 relay2 done rc=0
+14:11:16Z relay3_GO rc=0
