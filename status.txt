@@ -1,1 +1,1 @@
-05:35:58Z sin257_holdingdetail2_GO rc=0
+05:44:58Z sin257_holdingdetail3_GO rc=0
