@@ -1,1 +1,1 @@
-01:49:22Z sin257_polish04c_GO rc=0
+02:06:41Z sin257_graphname_GO rc=0
