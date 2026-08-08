@@ -1,1 +1,1 @@
-14:10:07Z sin258_pipe_GO rc=0
+14:27:44Z sin258_close_GO rc=0
