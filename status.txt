@@ -1,1 +1,1 @@
-06:39:27Z sin258_ladder_GO rc=0
+06:58:56Z sin258_maincur_GO rc=0
