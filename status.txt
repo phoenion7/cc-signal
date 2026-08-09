@@ -1,1 +1,1 @@
-15:41:33Z sin258_pct04_GO rc=0
+00:24:01Z sin258_struct_GO rc=0
