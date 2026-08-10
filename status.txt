@@ -1,1 +1,1 @@
-01:27:51Z sin258_scan22_GO rc=0
+01:54:08Z sin258_exec22_GO rc=0
