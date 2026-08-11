@@ -1,1 +1,1 @@
-13:32:23Z sin262_when_GO rc=0
+13:50:22Z sin262_symmetry_GO rc=0
