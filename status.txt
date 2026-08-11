@@ -1,1 +1,1 @@
-07:04:41Z sin262_probe_GO rc=0
+08:25:29Z sin262_anchor_GO rc=0
