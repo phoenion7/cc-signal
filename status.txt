@@ -1,1 +1,1 @@
-11:09:12Z sin284_04cashtext_GO rc=0
+12:03:50Z sin285_04cashvalue_GO rc=0
