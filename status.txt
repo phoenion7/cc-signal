@@ -1,1 +1,1 @@
-14:33:52Z sin290_acctlabel_GO rc=0
+23:20:04Z sin291_srcnickname_GO rc=0
