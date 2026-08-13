@@ -1,1 +1,1 @@
-13:12:10Z sin302_widgetguard_GO rc=0
+13:23:55Z sin303_widgetguard_verify_GO rc=0
