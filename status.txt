@@ -1,1 +1,1 @@
-11:27:59Z sin299_app_dictation_GO rc=0
+12:30:58Z sin300_close_GO rc=0
