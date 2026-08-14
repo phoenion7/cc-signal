@@ -1,1 +1,1 @@
-07:56:12Z sin316_daily_census_GO rc=0
+08:26:50Z sin317_04zoom_시안_GO rc=0
