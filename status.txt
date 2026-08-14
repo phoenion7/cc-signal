@@ -1,1 +1,1 @@
-13:44:32Z sin304_testpredicate_split_GO rc=0
+00:55:27Z sin305_close_GO rc=0
