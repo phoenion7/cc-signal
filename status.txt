@@ -1,1 +1,1 @@
-01:29:58Z sin324_pinchfix_GO rc=0
+01:50:42Z sin325_close_GO rc=0
