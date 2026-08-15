@@ -1,1 +1,1 @@
-07:01:21Z sin339_cash_yeoksan_wiring_GO rc=0
+07:20:11Z sin340_04_ma_fulldata_GO rc=0
