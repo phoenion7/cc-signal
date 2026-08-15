@@ -1,1 +1,1 @@
-13:12:57Z sin347_total_pnl_probe_GO rc=0
+14:17:16Z sin348_close_GO rc=0
