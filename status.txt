@@ -1,1 +1,1 @@
-17:08:24Z sin387_k5resweep_GO rc=0
+23:24:42Z sin388_k5probe_GO rc=0
