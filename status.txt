@@ -1,1 +1,1 @@
-14:20:37Z sin377_04_delete_visible_GO rc=0
+14:44:58Z sin378_close_GO rc=0
