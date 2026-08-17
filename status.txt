@@ -1,1 +1,1 @@
-00:59:19Z sin390_close_GO rc=0
+01:25:39Z sin391_devicegate_GO rc=0
