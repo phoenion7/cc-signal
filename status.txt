@@ -1,1 +1,1 @@
-13:14:32Z sin475_panB_GO rc=0
+13:39:59Z sin477_split_GO rc=0
