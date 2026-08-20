@@ -1,1 +1,1 @@
-13:39:59Z sin477_split_GO rc=0
+13:56:39Z sin478_close_GO rc=0
