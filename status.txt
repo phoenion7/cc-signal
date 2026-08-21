@@ -1,1 +1,1 @@
-06:46:56Z sin497_close_GO rc=0
+08:01:27Z sin498_zoomcenter_GO rc=0
