@@ -1,1 +1,1 @@
-13:02:12Z sin502_indexat_GO rc=0
+13:10:16Z sin503_zoomanchor_GO rc=0
