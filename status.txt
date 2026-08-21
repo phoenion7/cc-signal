@@ -1,1 +1,1 @@
-08:01:27Z sin498_zoomcenter_GO rc=0
+08:23:27Z sin499_totalwindow_GO rc=0
