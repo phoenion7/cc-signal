@@ -1,1 +1,1 @@
-18:39:52Z sin486_gate_GO rc=0
+01:13:06Z sin487_close_GO rc=0
