@@ -1,1 +1,1 @@
-01:18:47Z sin504_anchorsvg_GO rc=0
+01:43:49Z sin505_close_GO rc=0
