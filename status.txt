@@ -1,1 +1,1 @@
-02:03:34Z sin515_endpin_GO rc=0
+02:20:08Z sin516_close_GO rc=0
