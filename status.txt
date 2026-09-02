@@ -1,1 +1,1 @@
-01:01:08Z sin743_ijik_census_GO rc=0
+01:18:57Z sin744_maincard_GO rc=0
