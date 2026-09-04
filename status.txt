@@ -1,1 +1,1 @@
-06:17:38Z sin831_uifg_GO rc=0
+06:36:14Z sin832_navfix_GO rc=0
