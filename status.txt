@@ -1,1 +1,1 @@
-09:30:20Z sin991_마감_GO rc=0
+10:09:21Z sin992_시점축census_GO rc=0
