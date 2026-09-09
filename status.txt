@@ -1,1 +1,1 @@
-14:15:00Z sin1031_종목상세census_GO rc=0
+14:29:13Z sin1032_종목상세census_GO rc=0
