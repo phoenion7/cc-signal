@@ -1,1 +1,1 @@
-04:39:47Z sin1245_watcher실시간_GO rc=0
+04:46:34Z sin1246_마감_GO rc=0
