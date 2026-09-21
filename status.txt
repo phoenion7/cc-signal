@@ -1,1 +1,1 @@
-12:51:16Z sin1330_totalalign_GO rc=0
+13:10:21Z sin1331_totalsplit_GO rc=0
