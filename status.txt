@@ -1,1 +1,1 @@
-00:29:03Z sin1333_splitsignal_GO rc=0
+01:28:11Z sin1334_bothdoors_GO rc=0
