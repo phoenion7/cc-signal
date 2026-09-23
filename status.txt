@@ -1,1 +1,1 @@
-14:25:02Z sin1367_fixtureload_GO rc=0
+14:51:40Z sin1368_fixturepath_GO rc=0
