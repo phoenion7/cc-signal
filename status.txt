@@ -1,1 +1,1 @@
-15:10:27Z sin1369_restorebatch_GO rc=0
+16:07:30Z sin1370_restorebatch2_GO rc=0
