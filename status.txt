@@ -1,1 +1,1 @@
-09:18:38Z sin1408_namerule_GO rc=0
+11:17:57Z sin1409_close_GO rc=0
