@@ -1,1 +1,1 @@
-08:37:13Z sin1407_jsonacctprobe_GO rc=0
+09:18:38Z sin1408_namerule_GO rc=0
