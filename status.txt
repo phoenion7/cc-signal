@@ -1,1 +1,1 @@
-00:24:20Z sin1395_skipreason04_GO rc=0
+00:30:42Z sin1396_close_GO rc=0
