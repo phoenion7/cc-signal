@@ -1,1 +1,1 @@
-18:06:37Z sin1432_settingsshots_GO rc=0
+02:52:18Z sin1433_ratesum_GO rc=0
