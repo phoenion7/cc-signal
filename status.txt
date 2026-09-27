@@ -1,1 +1,1 @@
-02:52:18Z sin1433_ratesum_GO rc=0
+03:03:39Z sin1434_reshots_GO rc=0
