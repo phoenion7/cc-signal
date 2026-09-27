@@ -1,1 +1,1 @@
-03:16:10Z sin1435_close_GO rc=0
+04:55:08Z sin1436_detailpastshots_GO rc=0
