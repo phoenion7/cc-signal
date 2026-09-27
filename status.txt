@@ -1,1 +1,1 @@
-12:40:18Z sin1446_liqsiblings_GO rc=1
+23:15:17Z sin1446b_liqfinish_GO rc=0
