@@ -1,1 +1,1 @@
-06:07:54Z sin1466_lensfix_GO rc=0
+07:07:00Z sin1467_termfix_GO rc=0
