@@ -1,1 +1,1 @@
-01:38:00Z sin1479_ratenote2_GO rc=0
+02:06:06Z sin1480_close_GO rc=0
