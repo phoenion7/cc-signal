@@ -1,1 +1,1 @@
-14:25:42Z sin1543_assetdrill_GO rc=1
+14:34:00Z sin1543r2_assetdrill_GO rc=0
