@@ -1,1 +1,1 @@
-03:27:02Z sin1555r2_detailregress_GO rc=0
+03:42:32Z sin1556_cashtable_GO rc=0
