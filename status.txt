@@ -1,1 +1,1 @@
-06:40:35Z sin1565r2_winsleep_GO rc=0
+06:50:52Z sin1566_close_GO rc=0
