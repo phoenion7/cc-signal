@@ -1,1 +1,1 @@
-05:53:29Z sin1542_redfamily_GO rc=0
+06:12:19Z sin1542r2_redfamily_GO rc=0
