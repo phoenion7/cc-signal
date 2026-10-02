@@ -1,1 +1,1 @@
-03:20:22Z sin1555_detailregress_GO rc=1
+03:27:02Z sin1555r2_detailregress_GO rc=0
