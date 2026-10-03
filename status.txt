@@ -1,1 +1,1 @@
-01:10:51Z sin1601_fix_GO rc=0
+01:12:51Z sin1602_close_GO rc=0
