@@ -1,1 +1,1 @@
-03:28:33Z mstest_05_GO rc=1
+03:32:57Z mstest_06_GO rc=0
