@@ -1,1 +1,1 @@
-13:20:59Z sin1619_realai_measure_GO rc=0
+13:28:48Z sin1620_realai_shots_GO rc=0
