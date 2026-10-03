@@ -1,1 +1,1 @@
-00:00:59Z sin1599_redfamily_GO rc=0
+00:59:18Z sin1600_diag_GO rc=0
