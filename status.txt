@@ -1,1 +1,1 @@
-00:25:19Z sin1629_delete_measure_GO rc=0
+00:57:53Z sin1630_snapshot_delete_GO rc=0
