@@ -1,1 +1,1 @@
-01:24:35Z sin1632_debug_ui_GO rc=0
+01:47:31Z sin1633_delete_all_GO rc=0
