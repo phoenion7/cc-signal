@@ -1,1 +1,1 @@
-23:54:40Z sin1628_debug_cleanup_GO rc=0
+00:25:19Z sin1629_delete_measure_GO rc=0
