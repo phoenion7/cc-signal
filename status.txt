@@ -1,1 +1,1 @@
-06:01:29Z sin1639_close_GO rc=0
+06:41:22Z sin1640_measure_GO rc=0
