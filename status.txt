@@ -1,1 +1,1 @@
-08:08:32Z sin1644_usd_cash_GO rc=0
+08:28:00Z sin1645_cost_pair_GO rc=0
