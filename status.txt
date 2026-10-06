@@ -1,1 +1,1 @@
-06:40:29Z sin1703_close_push_GO rc=0
+08:46:08Z sin1704_resave_exact_krw_GO rc=0
