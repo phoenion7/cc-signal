@@ -1,1 +1,1 @@
-06:34:50Z sin1701_pnl_pct_inverse_GO rc=0
+06:40:29Z sin1703_close_push_GO rc=0
