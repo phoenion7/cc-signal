@@ -1,1 +1,1 @@
-00:08:23Z sin1694_settle_stored_krw_GO rc=0
+00:14:17Z sin1694b_same_day_resave_GO rc=0
