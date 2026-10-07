@@ -1,1 +1,1 @@
-05:26:37Z sin1729_close_GO rc=0
+05:54:10Z sin1730_usd_principal_measure_GO rc=0
