@@ -1,1 +1,1 @@
-17:41:37Z sin1774b_rate_reason_GO rc=0
+17:53:38Z sin1775_howto_walk_GO rc=0
