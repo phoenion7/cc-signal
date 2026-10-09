@@ -1,1 +1,1 @@
-23:10:01Z sin1794_fx_wait_measure_GO rc=0
+23:24:13Z sin1795_fx_wait_patch_GO rc=0
