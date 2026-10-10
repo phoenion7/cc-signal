@@ -1,1 +1,1 @@
-06:20:08Z sin1811_sameday_carry_GO rc=0
+06:46:14Z sin1812_captured_date_ask_GO rc=0
