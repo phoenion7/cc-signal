@@ -1,1 +1,1 @@
-03:17:50Z sin1808_sold_reference_GO rc=0
+03:44:10Z sin1809_endpoint_follow_GO rc=0
