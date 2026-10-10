@@ -1,1 +1,1 @@
-09:19:19Z sin1820_close_GO rc=0
+10:06:22Z sin1821_capturedDate_GO rc=0
