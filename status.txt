@@ -1,1 +1,1 @@
-08:00:36Z sin1841b_shown_avg_krw_GO rc=0
+08:05:20Z sin1842_close_push_GO rc=0
