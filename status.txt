@@ -1,1 +1,1 @@
-08:05:20Z sin1842_close_push_GO rc=0
+08:32:52Z sin1843_cutoff_bankhome_GO rc=0
