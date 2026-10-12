@@ -1,1 +1,1 @@
-08:03:08Z sin1867_krw_reopen_native_GO rc=0
+08:06:05Z sin1868_close_push_GO rc=0
