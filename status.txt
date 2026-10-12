@@ -1,1 +1,1 @@
-14:04:45Z sin1880_avg_and_krw_native_GO rc=0
+14:09:48Z sin1881_doorless_sweep_GO rc=0
