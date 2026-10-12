@@ -1,1 +1,1 @@
-09:38:35Z sin1870_bank_ladder_probe_GO rc=0
+10:06:31Z sin1871_chart_date_point_GO rc=0
