@@ -1,1 +1,1 @@
-13:31:56Z sin1879r2_export_value_door_finish_GO rc=0
+14:04:45Z sin1880_avg_and_krw_native_GO rc=0
