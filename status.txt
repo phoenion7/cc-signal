@@ -1,1 +1,1 @@
-07:25:51Z sin1866_no_institution_bank_GO rc=0
+08:03:08Z sin1867_krw_reopen_native_GO rc=0
