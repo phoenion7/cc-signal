@@ -1,1 +1,1 @@
-06:20:48Z sin1905_iphone_only_GO rc=0
+06:39:17Z sin1906_ipad_probe_GO rc=0
