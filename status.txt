@@ -1,1 +1,1 @@
-02:36:39Z sin1962b_night_resume_GO rc=0
+14:11:37Z sin1963_beta_fold_GO rc=1
