@@ -1,1 +1,1 @@
-14:11:37Z sin1963_beta_fold_GO rc=1
+14:24:35Z sin1963r2_beta_fold_GO rc=0
